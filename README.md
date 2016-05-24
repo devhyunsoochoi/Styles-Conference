@@ -1,6 +1,4 @@
-# README #
-
-## Styles Conference Demo ##
+# Styles Conference Demo #
 
 I wanted to accomplish a few things through this project.
 
@@ -13,6 +11,6 @@ I wanted to accomplish a few things through this project.
 7. Implement different HTML5 attributes.
 8. Use the best HTML, CSS coding practices.
 9. Make reusable CSS classes.
-10. Avoid <div> tags as much as I could.
+10. Avoid div tags as much as I could.
 
 Special thanks to [Shay Howe](http://learn.shayhowe.com/)'s awesome HTML & CSS online book.
