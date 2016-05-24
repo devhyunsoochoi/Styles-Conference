@@ -13,4 +13,6 @@ I wanted to accomplish a few things through this project.
 9. Make reusable CSS classes.
 10. Avoid div tags as much as I could.
 
+Check out the demo [here](http://devhyunsoochoi.github.io/Styles-Conference/).
+
 Special thanks to [Shay Howe](http://learn.shayhowe.com/)'s awesome HTML & CSS online book.
